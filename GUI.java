@@ -6,7 +6,6 @@ import java.awt.event.ActionListener;
 public class GUI implements ActionListener{
     JFrame frame;
     JPanel panel;
-    JPanel panel2;
 
     JLabel intro;
     JLabel h1;
